@@ -1,0 +1,11 @@
+using namespace std;
+int main()
+{
+cout<<"anjal muhammed m a , internsprint";
+}
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<"your name , internsprint";
+}
